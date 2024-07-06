@@ -69,34 +69,3 @@ the US. There are about 30% more Private For-Profits than there are Public or Pr
 are Private.
 4. On average about 90% more students from Private Schools receive federal loans than from Public Schools. Although this could be 
 explained by the large number of students in Public Schools, it is an unjust discrepancy nonetheless.
-
-
-## Contribute
-The data as downloaded from Data.gov is quite large in size - about 2.5 GB. This analysis focuses singularly on the Academic 
-Year 2017 - 18.
-Further, only the variables I found interesting have been included. This project is in no way the complete picture of the U. S. 
-Postsecondary
-Education System. <br>
-There is lot of potential room to analyze the data more deeply and broadly. Any contributions are welcome!
-
-First, fork this repository.
-
-![Fork Icon](images/fork-icon.png)
-
-Next, clone this repository to your desktop to make changes.
-
-```sh
-$ git clone https://github.com/dhavalpotdar/College-Scorecard-Data-Analysis.git
-$ cd College-Scorecard-Data-Analysis
-```
-
-Once you've pushed changes to your local repository, you can issue a pull request by clicking on the green pull request icon.
-
-![Pull Request Icon](images/pull-request-icon.png)
-
-Instead of cloning the repository to your desktop, you can also go to `README.md` in your fork on GitHub.com, hit the Edit 
-button (the button with the pencil) to edit the file in your browser, then hit the `Propose file change` button, and finally make 
-a pull request. 
-
-## License
-The contents of this repository are covered under the [MIT License](https://github.com/dhavalpotdar/College-Scorecard-Data-Analysis/blob/master/LICENSE).
