@@ -1,4 +1,4 @@
-# College-Scorecard-Data-Analysis
+# Data Analysis of College Scorecard Dataset
 
 This project aims to conduct a high level survey of the US Postsecondary Education System as of the academic year 2017 - 2018.<br>
 We will try to answer questions such as:
